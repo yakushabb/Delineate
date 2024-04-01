@@ -18,7 +18,8 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image>https://gitlab.gnome.org/bilelmoussaoui/delineate/raw/master/data/resources/screenshots/screenshot1.png</image>
+      <image>https://raw.githubusercontent.com/SeaDve/Delineate/main/data/resources/screenshots/screenshot1.png</image>
+      <caption>Main window in light mode</caption>
     </screenshot>
   </screenshots>
   <url type="bugtracker">https://github.com/SeaDve/Delineate/issues</url>
